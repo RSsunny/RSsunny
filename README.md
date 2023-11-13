@@ -9,9 +9,9 @@ STUDY 🎓ARTISTS🚞FASHION🎸MODELLIN
 
 - 🌱 I’m currently learning Next.js
   
-<div style={width:100%}>
-  ![GitHub streak stats](https://streak-stats.demolab.com/?user=RSsunny)
-</div>
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=RSsunny)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RSsunny)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
@@ -24,7 +24,7 @@ STUDY 🎓ARTISTS🚞FASHION🎸MODELLIN
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RSsunny)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RSsunny)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RSsunny&show_icons=true&count_private=true)  
 
