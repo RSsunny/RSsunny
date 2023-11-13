@@ -1,11 +1,13 @@
 <a href="https://www.facebook.com/rabious.sunny.94">
- <img height="150" src="https://scontent.fjsr12-1.fna.fbcdn.net/v/t39.30808-6/277560557_1132064944238312_6866031446215252917_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHVJ8HQW0v9Gs45XQ1vx8dvWqENhR_hUFBaoQ2FH-FQUMrA1x63vSykdRdYZVY-azijXSKXVWfFpEI1mXsKk-K0&_nc_ohc=WmeGxLyC_5kAX_L_EuQ&_nc_ht=scontent.fjsr12-1.fna&oh=00_AfDqjy4w86v0aMs7DKLjzP4OO-yorcM99yXFpYfG7iSZTA&oe=6556ED02" alt="" />
+ <img  src="https://i.ibb.co/J2z161f/Screen-Shot-11-14-2023-at-2-26-AM-2.png" alt="" />
  </a>
      
 
 
-## Hi , I ma Rabius Sunny  <h6>( wev Developer )</h6>
+## Hi , I ma Rabius Sunny  <h6>( web developer )</h6>
 🌱 I’m currently learning Next.js
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -15,9 +17,28 @@ STUDY 🎓ARTISTS🚞FASHION🎸MODELLIN <br/>
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
-  
- ![GitHub streak stats ](https://streak-stats.demolab.com/?user=RSsunny) 
+<h1 align="center"> Below Are The Languages I know 💪</h1>
+<br/>
+
+<p align="center">
+ <img  src="https://i.ibb.co/6mwLZ3p/resize-16999054166588632545968292.png" /> 
+ <img src="https://i.ibb.co/rGS1zxN/resize-16999059291177752243resize1699905484442080011v4y43jjfj7u5r8to8qdu.jpg" />
+ <img src="https://i.ibb.co/P4XzCqf/resize-16999051872007273401nextjsicon2048x2048eugu5rfi.png" /> 
+ <img src="https://i.ibb.co/YXhdGw4/resize-16999060211811860662resize1699905512888721098pngtransparentmongodboriginalwordmarklogoiconthu.png" />
+ <img src="https://i.ibb.co/j8fp7vd/resize-1699906101466586334resize1699905767752528505images.png" />
+ <img src="https://i.ibb.co/19hxnFv/resize-1699906236335564861pngtransparentreduxreactjavascriptvuejssinglepageapplicationothersthumbnai.png" />
+
+</p>
+ <br/>
+<br/>
+<br/>
+<br/>
+<br/> 
+
+![GitHub streak stats ](https://streak-stats.demolab.com/?user=RSsunny) 
 
 
 
@@ -41,13 +62,7 @@ STUDY 🎓ARTISTS🚞FASHION🎸MODELLIN <br/>
  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RSsunny)](https://github.com/anuraghazra/github-readme-stats) 
-## Skills: 
--  <img src="https://i.ibb.co/n8Gq1HR/resize-16999027134953133125968292.png" /> JavaScript
-- React
-- Next Js
-- MongoDB
-- Express
-- Node Js 
+
 
 ![Profile views](https://gpvc.arturio.dev/RSsunny)  
 
