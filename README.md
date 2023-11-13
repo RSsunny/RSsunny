@@ -36,7 +36,7 @@ STUDY 🎓ARTISTS🚞FASHION🎸MODELLIN
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RSsunny)](https://github.com/anuraghazra/github-readme-stats) 
 ## Skills: 
-- https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fjs_5968292&psig=AOvVaw2rqq0FFgMSaAUxn8NaF9y1&ust=1699988448150000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNin2djUwYIDFQAAAAAdAAAAABAE JavaScript
+-  <img src="https://i.ibb.co/K2rhDG8/5968292.png" alt="" /> JavaScript
 - React
 - Next Js
 - MongoDB
