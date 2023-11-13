@@ -9,8 +9,8 @@
 <br/>
 <br/>
 
-<h3 align="center">🔬MEMBER OF HANGER PROJECT🚁
-STUDY 🎓ARTISTS🚞FASHION🎸MODELLIN
+<h3 align="center">🔬MEMBER OF HANGER PROJECT🚁 <br/>
+STUDY 🎓ARTISTS🚞FASHION🎸MODELLIN <br/>
 🎧ACTIVE 💪POKER🔭CHESSMASTER</h3>
 
 - 🌱 I’m currently learning Next.js
