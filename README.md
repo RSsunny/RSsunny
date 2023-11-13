@@ -1,4 +1,3 @@
-
 ![Web Developer ](https://scontent.fjsr12-1.fna.fbcdn.net/v/t39.30808-6/277560557_1132064944238312_6866031446215252917_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHVJ8HQW0v9Gs45XQ1vx8dvWqENhR_hUFBaoQ2FH-FQUMrA1x63vSykdRdYZVY-azijXSKXVWfFpEI1mXsKk-K0&_nc_ohc=WmeGxLyC_5kAX_L_EuQ&_nc_ht=scontent.fjsr12-1.fna&oh=00_AfDqjy4w86v0aMs7DKLjzP4OO-yorcM99yXFpYfG7iSZTA&oe=6556ED02)
 
 
@@ -8,17 +7,15 @@
 STUDY 🎓ARTISTS🚞FASHION🎸MODELLIN
 🎧ACTIVE 💪POKER🔭CHESSMASTER
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=RSsunny)  
+- 🌱 I’m currently learning Next.js
+  
+<div style={width:100%}>
+  ![GitHub streak stats](https://streak-stats.demolab.com/?user=RSsunny)
+</div>
 
-Skills: 
-- JavaScript
-- React
-- Next Js
-- MongoDB
-- Express
-- Node Js 
 
-- 🌱 I’m currently learning Next.js  
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RSsunny)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rs.sunny001)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rs.sunny001/)  
@@ -35,6 +32,12 @@ Skills:
 
 ![GitHub metrics](https://metrics.lecoq.io/RSsunny)  
 
-
+Skills: 
+- JavaScript
+- React
+- Next Js
+- MongoDB
+- Express
+- Node Js 
 
 ![Profile views](https://gpvc.arturio.dev/RSsunny)  
