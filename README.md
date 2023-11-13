@@ -4,8 +4,8 @@
      
 
 
-## Hi , I ma Rabius Sunny
-#### Web Developer 
+## Hi , I ma Rabius Sunny  ( #### Web Developer )
+
 🔬MEMBER OF HANGER PROJECT🚁
 STUDY 🎓ARTISTS🚞FASHION🎸MODELLIN
 🎧ACTIVE 💪POKER🔭CHESSMASTER
