@@ -4,11 +4,14 @@
      
 
 
-## Hi , I ma Rabius Sunny  ( #### Web Developer )
+## Hi , I ma Rabius Sunny
+###  Web Developer
+<br/>
+<br/>
 
-🔬MEMBER OF HANGER PROJECT🚁
+<h3 align="center">🔬MEMBER OF HANGER PROJECT🚁
 STUDY 🎓ARTISTS🚞FASHION🎸MODELLIN
-🎧ACTIVE 💪POKER🔭CHESSMASTER
+🎧ACTIVE 💪POKER🔭CHESSMASTER</h3>
 
 - 🌱 I’m currently learning Next.js
   
