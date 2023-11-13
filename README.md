@@ -1,7 +1,10 @@
  <div style={{height:"200px"}}>
         <img src="https://scontent.fjsr12-1.fna.fbcdn.net/v/t39.30808-6/277560557_1132064944238312_6866031446215252917_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHVJ8HQW0v9Gs45XQ1vx8dvWqENhR_hUFBaoQ2FH-FQUMrA1x63vSykdRdYZVY-azijXSKXVWfFpEI1mXsKk-K0&_nc_ohc=WmeGxLyC_5kAX_L_EuQ&_nc_ht=scontent.fjsr12-1.fna&oh=00_AfDqjy4w86v0aMs7DKLjzP4OO-yorcM99yXFpYfG7iSZTA&oe=6556ED02" alt="" />
       </div>
-
+<div style={{display:"flex",justifyContent:"space-evenly", alignItems:"center"}}>
+       <div>hello</div>
+       <div>gitHub</div>
+      </div>
 
 ## Hi , I ma Rabius Sunny
 #### Web Developer 
