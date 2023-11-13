@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com/rabious.sunny.94">
- <img  src="https://i.ibb.co/J2z161f/Screen-Shot-11-14-2023-at-2-26-AM-2.png" alt="" />
+ <img width="100%" height="400"  src="https://i.ibb.co/YRTSD26/Screen-Shot-11-14-2023-at-3-04-AM.png" alt="" />
  </a>
      
 
@@ -38,22 +38,11 @@ STUDY 🎓ARTISTS🚞FASHION🎸MODELLIN <br/>
 <br/>
 <br/> 
 
-![GitHub streak stats ](https://streak-stats.demolab.com/?user=RSsunny) 
 
+<p >
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+ ![GitHub streak stats ]( https://streak-stats.demolab.com/?user=RSsunny) 
+</p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RSsunny)  
 
