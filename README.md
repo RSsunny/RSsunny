@@ -4,8 +4,8 @@
      
 
 
-## Hi , I ma Rabius Sunny
-###  Web Developer
+## Hi , I ma Rabius Sunny  <h6>( wev Developer )</h6>
+🌱 I’m currently learning Next.js
 <br/>
 <br/>
 
@@ -13,7 +13,7 @@
 STUDY 🎓ARTISTS🚞FASHION🎸MODELLIN <br/>
 🎧ACTIVE 💪POKER🔭CHESSMASTER</h3>
 
-- 🌱 I’m currently learning Next.js
+
   
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=RSsunny) 
