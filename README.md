@@ -8,6 +8,8 @@
 STUDY 🎓ARTISTS🚞FASHION🎸MODELLIN
 🎧ACTIVE 💪POKER🔭CHESSMASTER
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=RSsunny)  
+
 Skills: 
 - JavaScript
 - React
@@ -33,6 +35,6 @@ Skills:
 
 ![GitHub metrics](https://metrics.lecoq.io/RSsunny)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=RSsunny)  
+
 
 ![Profile views](https://gpvc.arturio.dev/RSsunny)  
