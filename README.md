@@ -34,8 +34,9 @@ STUDY 🎓ARTISTS🚞FASHION🎸MODELLIN
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RSsunny&show_icons=true&count_private=true)  
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RSsunny)](https://github.com/anuraghazra/github-readme-stats) Skills: 
-- JavaScript
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RSsunny)](https://github.com/anuraghazra/github-readme-stats) 
+## Skills: 
+- https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fjs_5968292&psig=AOvVaw2rqq0FFgMSaAUxn8NaF9y1&ust=1699988448150000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNin2djUwYIDFQAAAAAdAAAAABAE JavaScript
 - React
 - Next Js
 - MongoDB
