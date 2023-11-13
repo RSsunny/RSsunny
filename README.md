@@ -8,15 +8,17 @@
 🌱 I’m currently learning Next.js
 <br/>
 <br/>
-
+<br/>
 <h3 align="center">🔬MEMBER OF HANGER PROJECT🚁 <br/>
 STUDY 🎓ARTISTS🚞FASHION🎸MODELLIN <br/>
 🎧ACTIVE 💪POKER🔭CHESSMASTER</h3>
-
+<br/>
+<br/>
+<br/>
 
   
+<p align="center"> ![GitHub streak stats](https://streak-stats.demolab.com/?user=RSsunny) </p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=RSsunny) 
 
 
 
