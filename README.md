@@ -1,10 +1,10 @@
 <a href="https://www.facebook.com/rabious.sunny.94">
- <img width="100%" height="400"  src="https://i.ibb.co/YRTSD26/Screen-Shot-11-14-2023-at-3-04-AM.png" alt="" />
+ <img width="100%" height="400"  src="https://i.ibb.co/2891XM6/Screen-Shot-12-9-2023-at-2-35-AM.png" alt="" />
  </a>
      
 
 
-## Hi , I ma Rabius Sunny  <h6>( web developer :zap:)</h6>
+## Hi , I am Rabius Sunny  <h6>( web developer :zap:)</h6>
 🌱 I’m currently learning Next.js
 <br/>
 <br/>
