@@ -7,8 +7,11 @@
 ## Hi , I am Rabius Sunny  <h6>( web developer :zap:)</h6>
 🌱 I’m currently learning Next.js
 <br/>
-<br/>
-<br/>
+
+
+
+
+
 <br/>
 <br/>
 <h3 align="center">🔬MEMBER OF HANGER PROJECT🚁 <br/>
@@ -29,7 +32,7 @@ STUDY 🎓ARTISTS🚞FASHION🎸MODELLIN <br/>
  <img src="https://i.ibb.co/P4XzCqf/resize-16999051872007273401nextjsicon2048x2048eugu5rfi.png" /> 
  <img src="https://i.ibb.co/YXhdGw4/resize-16999060211811860662resize1699905512888721098pngtransparentmongodboriginalwordmarklogoiconthu.png" />
  <img src="https://i.ibb.co/j8fp7vd/resize-1699906101466586334resize1699905767752528505images.png" />
- <img src="https://i.ibb.co/19hxnFv/resize-1699906236335564861pngtransparentreduxreactjavascriptvuejssinglepageapplicationothersthumbnai.png" />
+
 
 </p>
  <br/>
@@ -44,21 +47,34 @@ STUDY 🎓ARTISTS🚞FASHION🎸MODELLIN <br/>
 
 
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RSsunny)  
-![GitHub metrics](https://metrics.lecoq.io/RSsunny)  
-
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RSsunny&theme=dark&mode=weekly)](https://git.io/streak-stats)
  
-![GitHub streak stats ]( https://streak-stats.demolab.com/?user=RSsunny) 
+ <br/>
+<br/>
 
+![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RSsunny&theme=ayu_mirage)
 
+![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RSsunny&theme=ayu_mirage)
+![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RSsunny&theme=ayu_mirage&utcOffset=8)
 
+<br/>
 
+![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RSsunny&theme=ayu_mirage)
+![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RSsunny&theme=ayu_mirage)
 
+<br/>
 
-
-
-
+<p align="center">
+  <a href="https://www.instagram.com/rs.sunny001/">
+<img  width="50" height="50"  src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" />
+  </a>
+  <a href="https://www.instagram.com/rs.sunny001/">
+<img  width="50" height="50"  src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" />
+  </a>
+  <a href="https://www.instagram.com/rs.sunny001/">
+<img  width="50" height="50"  src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" />
+  </a>
+</p>
 
 
 
