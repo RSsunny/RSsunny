@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com/rabious.sunny.94">
- <img width="100%" height="400"  src="https://i.ibb.co/2891XM6/Screen-Shot-12-9-2023-at-2-35-AM.png" alt="" />
+ <img width="100%" height="400"  src="https://i.ibb.co/FJ63Gcw/Beige-Black-Geometric-Technology-Linked-In-Banner-1.png" alt="" />
  </a>
      
 
